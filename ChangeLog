@@ -1,0 +1,16 @@
+## Version 0.74.1 - 2024-04-07 
+### Added
+- Studio tab: audio lock
+- Studio tab: track solo buttons
+- Studio tab: instrument pack uploading
+- Studio tab: auto instrument pack download when associated with style download
+- Studio tab: auto version upgrade alert
+- Style creator tab: batch mode
+### Changed
+- Studio tab: clipboard paste scope limited when popup active
+- Studio tab: track patch lock changed to image of lock versus toggle
+- Studio tab: audio loop button named
+- Studio tab: audio delete button named
+### Fixed
+- Studio tab: audio trial watermark stops playing when stop is pressed
+- Studio tab: MIDI export file name crash fixed
