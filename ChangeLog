@@ -1,4 +1,82 @@
-## Version 0.74.1 - 2024-04-07 
+
+## Version 0.75.6
+### Added
+- Studio tab: automatic chord matching score for each track
+- Studio tab: chord change frequency automatically identifies optimal change frequency
+### Fixed
+- Studio tab: enhanced chord matching
+### Changed
+- Studio tab: displays looped audio waveform
+
+## Version 0.75.5
+### Changed
+- Studio tab: Updated configuration file
+- Studio tab: integrated backend
+- Studio tab: added root genre to style type within style selector
+### Fixed
+- Studio tab: style and instrumentation search formatting
+- Studio tab: rating button glitch
+
+## Version 0.75.4
+### Added
+- Studio tab: track chording updates upon loading, restoring, undoing
+### Fixed
+- Studio tab: corrected play stop and restart when spacebar pressed
+
+## Version 0.75.3 
+### Added
+- Studio tab: Separate chording buttons added
+### Changed
+- Studio tab: recoupled multi-band compressor and compressor for better sound quality
+
+## Version 0.75.2
+### Changed
+- Studio tab: keep same range when chording is displayed is clicked
+- Studio tab: chord selection default changed to exclude lead for most likely scenario
+- Studio tab: multi-band compressor and compressor decoupled
+- Studio tab: increased height of multiband compressor option within effects
+- installer: integrated capacity for custom user data directory
+### Fixed
+- Studio tab: corrected loading of instrumentation when using separate install data directory
+
+
+## Version 0.75.1 
+### Changed
+- Studio tab: install allows for separate program and data directory
+### Fixed
+- Style creator tab: further enhanced training for small songs
+
+## Version 0.74.5 
+### Added
+- Studio tab: import style preview URL and description in create tab
+- Style creator tab: learn clear additionally resets learn tab, changed label to reset
+- Style creator tab: added capacity for style owner to re-edit meta level inputs
+### Fixed
+- Style creator tab: fixed ordering of drums when training
+- Studio tab: fixed fatal chord display bug in specific scenarios
+- Studio tab: fixed quantizing bug
+- Studio tab: fixed time display bug with duration display when <10 seconds displayed
+
+## Version 0.74.4 
+### Fixed
+- Studio tab: song saving and search corrected so that they do not default incorrectly to RTRAXX
+### Changed
+- Studio tab: decimal places removed from knob values
+
+## Version 0.74.3
+### Changed
+- Style creator tab: reverted learning acceleration mode
+- Studio tab: waveform display enhanced
+
+## Version 0.74.3 
+### Changed
+- Style creator tab: tweaks to enhance training of small songs
+
+## Version 0.74.2
+### Added
+- Studio tab: sustained notes are turned off at end of playback loops
+
+## Version 0.74.1
 ### Added
 - Studio tab: audio lock
 - Studio tab: track solo buttons
