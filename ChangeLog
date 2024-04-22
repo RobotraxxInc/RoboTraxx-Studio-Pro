@@ -49,7 +49,7 @@
 ## Version 0.74.5 
 ### Added
 - Studio tab: import style preview URL and description in create tab
-- Style creator tab: learn clear additionally resets learn tab, changed label to reset
+- Style creator tab: clear additionally resets learn tab, changed label to reset
 - Style creator tab: added capacity for style owner to re-edit meta level inputs
 ### Fixed
 - Style creator tab: fixed ordering of drums when training
