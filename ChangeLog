@@ -1,7 +1,7 @@
 
 ## Version 0.75.7 
 ### Fixed
-- installed switch error output to C:\Users\SomeBody\AppData\Local
+-  runtime errors route to C:\Users\user\RoboTraxx\RoboTraxxStudio.err
 
 ## Version 0.75.6
 ### Added
