@@ -1,4 +1,9 @@
 
+## Version 0.75.8 
+### Fixed
+- Studio tab: fixed duplication of instrument pack names
+- Studio tab: fixed freezing of track chord selector toggles
+
 ## Version 0.75.7 
 ### Fixed
 -  runtime errors route to C:\Users\user\RoboTraxx\RoboTraxxStudio.err
