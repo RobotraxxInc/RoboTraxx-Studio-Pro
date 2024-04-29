@@ -1,4 +1,8 @@
 
+## Version 0.75.9
+### Fixed
+- Style creator tab: eliminated potential duplictes of style background audio 
+
 ## Version 0.75.8 
 ### Fixed
 - Studio tab: fixed duplication of instrument pack names
