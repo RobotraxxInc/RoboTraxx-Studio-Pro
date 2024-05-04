@@ -1,4 +1,15 @@
 
+## Version 0.76.1
+### Added
+- Product trial mode 
+### Changed
+- chord algorithm uses all tracks when no notes available from selected chord track(s)
+
+
+## Version 0.75.10
+### Fixed
+- Style creator tab: corrected track chord state glitch
+
 ## Version 0.75.9
 ### Fixed
 - Style creator tab: eliminated potential duplictes of style background audio 
