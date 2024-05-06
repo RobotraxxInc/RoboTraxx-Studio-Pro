@@ -1,7 +1,18 @@
 
+
+## Version 0.76.2
+### Fixed
+- Studio tab: enhanced controller smoothing
+### Changed
+- Studio tab: forced chord progression conforms to user chord change frequency selected
+
 ## Version 0.76.1
 ### Added
 - Product trial mode 
+- Studio tab: copy/paste includes drum mappings
+- Studio tab: added controller smoothing
+### Fixed
+- Studio tab: midi import time modifier corrected
 ### Changed
 - chord algorithm uses all tracks when no notes available from selected chord track(s)
 
