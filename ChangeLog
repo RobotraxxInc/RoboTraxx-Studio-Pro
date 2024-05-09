@@ -1,6 +1,8 @@
 
 
 ## Version 0.76.4
+### Fixed
+- Studio tab: corrected that trial mode applies to initialization
 ### Changed
 - Studio tab: clarified type of license being activated
 - Studio tab: added link to license cancellation
