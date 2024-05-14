@@ -1,6 +1,7 @@
 ## Version 0.76.5
 ### Fixed
 - Studio tab: Fixed note display glitch within treaded track generation
+- Style creator tab: Corrected batch mode indexing
 ### Added
 - Studio tab: Style pattern selector
 - Studio tab: Beta user survey link
