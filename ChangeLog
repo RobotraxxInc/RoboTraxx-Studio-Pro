@@ -1,3 +1,7 @@
+## Version 0.76.6
+### Fixed
+- Style creator tab: Corrected batch mode indexing
+
 ## Version 0.76.5
 ### Fixed
 - Studio tab: Fixed note display glitch within treaded track generation
