@@ -5,6 +5,9 @@
 - Style creator tab: Update style genre name when importing style for editing
 ### Changed
 - Studio tab: Default compressor setting moved to -15db
+### Added
+- Style creator tab: Can add audio files on the fly to enable many-to-one backgound audio options
+
 
 ## Version 0.76.8
 ### Changed
