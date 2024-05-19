@@ -2,6 +2,7 @@
 ### Fixed
 - Studio tab: correct import track speed resolution
 - installer error in locating user settings.ini resolved
+- Style creator tab: Update style genre name when importing style for editing
 ### Changed
 - Studio tab: Default compressor setting moved to -15db
 
