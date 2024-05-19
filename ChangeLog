@@ -1,3 +1,24 @@
+## Version 0.76.9
+### Fixed
+- Studio tab: correct import track speed resolution
+- installer error in locating user settings.ini resolved
+### Changed
+- Studio tab: Default compressor setting moved to -15db
+
+## Version 0.76.8
+### Changed
+- Studio tab: Updated tutorial slides to include added functionalities
+### Fixed
+- Studio tab: corrected pointer to documentation PDF
+- Studio tab: corrected paste not including track velocities
+
+## Version 0.76.7
+### Changed
+- Style creator tab: parameterized training augmentation factor for short sequences
+- Studio tab: Re-added morph to post remix new song for finalization smoothing
+### Fixed
+- Studio tab: corrected post remix smoothing progression indicator
+
 ## Version 0.76.6
 ### Fixed
 - Style creator tab: Corrected batch mode indexing
