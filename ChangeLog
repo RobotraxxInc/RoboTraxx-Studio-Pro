@@ -1,3 +1,7 @@
+## Version 0.76.10
+### Fixed
+- installer: Added image module support and data directory debugging
+
 ## Version 0.76.9
 ### Fixed
 - Studio tab: correct import track speed resolution
@@ -7,7 +11,6 @@
 - Studio tab: Default compressor setting moved to -15db
 ### Added
 - Style creator tab: Can add audio files on the fly to enable many-to-one backgound audio options
-
 
 ## Version 0.76.8
 ### Changed
