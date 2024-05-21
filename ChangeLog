@@ -1,3 +1,15 @@
+Known bugs:
+- Importing from an online searched midi results in a crash since version 0.73
+- Online search for RTRAXX and audio files not implemented
+- User manual / documentation not implemented; quick start tutorial is available for Beta testers but does not explain all functions
+- Track controls may be deleted or shifted following some operations such as cut or trim
+- When importing RTRAXX control events from preview may overwrite existing track control events
+- Controls not functional for percussion track
+- Track control max/min sliders do not always respond as expected to user input
+- When editing bars, display does not always update as expected
+- Associated audio files do not display in style creator
+- Most input boxes do not have a 'submit' open and require user to click outside window to close
+
 ## Version 0.76.02
 ### Fixed
 - Studio tab: corrected create button down press
