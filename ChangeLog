@@ -1,5 +1,4 @@
 Known bugs:
-- Importing from an online searched midi results in a crash since version 0.73
 - Online search for RTRAXX and audio files not implemented
 - User manual / documentation not implemented; quick start tutorial is available for Beta testers but does not explain all functions
 - Track controls may be deleted or shifted following some operations such as cut or trim
@@ -9,6 +8,10 @@ Known bugs:
 - When editing bars, display does not always update as expected
 - Associated audio files do not display in style creator
 - Most input boxes do not have a 'submit' open and require user to click outside window to close
+
+## Version 0.76.3
+### Fixed
+- Importing from an online searched midi
 
 ## Version 0.76.2
 ### Fixed
