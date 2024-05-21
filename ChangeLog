@@ -10,11 +10,11 @@ Known bugs:
 - Associated audio files do not display in style creator
 - Most input boxes do not have a 'submit' open and require user to click outside window to close
 
-## Version 0.76.02
+## Version 0.76.2
 ### Fixed
 - Studio tab: corrected create button down press
 
-## Version 0.76.01
+## Version 0.76.1
 ### Changed
 - Studio tab: Updated main button icons
 - Installer: Corrected user data directory locator
