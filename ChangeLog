@@ -1,6 +1,20 @@
+## Version 0.76.02
+### Fixed
+- Studio tab: corrected create button down press
+
+## Version 0.76.01
+### Changed
+- Studio tab: Updated main button icons
+- Installer: Corrected user data directory locator
+
+## Version 0.76.11
+### Fixed
+- Installer: Corrected potential user selected directory glitch 
+- Installer: Removed unnecessary image module support
+
 ## Version 0.76.10
 ### Fixed
-- installer: Added image module support and data directory debugging
+- Installer: Added additional image module support and data directory debugging
 
 ## Version 0.76.9
 ### Fixed
