@@ -8,6 +8,7 @@ Known bugs:
 - When editing bars, display does not always update as expected
 - Associated audio files do not display in style creator
 - Most input boxes do not have a 'submit' open and require user to click outside window to close
+- The display of studio tab controls can infrequently lock
 
 
 ## Version 0.76.4
