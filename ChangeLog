@@ -10,10 +10,18 @@ Known bugs:
 - Most input boxes do not have a 'submit' open and require user to click outside window to close
 - The display of studio tab controls can infrequently lock
 
+## Version 0.76.6
+### Fixed
+- Studio tab: Corrected potential import midi crash when only one control change is present
+
+## Version 0.76.5
+### Fixed
+- Style creator tab: An error message is displayed rather than crashing if attempting to import a partially created style 
 
 ## Version 0.76.4
 ### Fixed
 - Studio tab: corrected display of community rating within style selector
+- Style creator tab: Corrected pop-up message error when attempting to edit a style created by another user
 ### Changed
 - Studio tab: Manage licenses displays user email when licensed rather than activation code
 
