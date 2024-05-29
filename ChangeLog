@@ -10,6 +10,11 @@ Known bugs:
 - Most input boxes do not have a 'submit' open and require user to click outside window to close
 - The display of studio tab controls can infrequently lock
 
+
+## Version 0.78.2
+### Changed
+- Modified the checks for the user setting file when activating based upon Beta user testing
+
 ## Version 0.78.1
 ### Fixed
 - Studio tab: Fixed midi import error when control values include sustain pedal
